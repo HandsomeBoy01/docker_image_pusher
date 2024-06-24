@@ -9,4 +9,5 @@
 #mcr.microsoft.com/dotnet/sdk:6.0
 #nacos/nacos-server:v2.1.0
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-rabbitmq:3.10.7-management
+#rabbitmq:3.10.7-management
+mongo:6.0.3
