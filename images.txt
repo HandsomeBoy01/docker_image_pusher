@@ -8,4 +8,4 @@
 docker.io/jenkins/jnlp-agent-alpine:latest
 mcr.microsoft.com/dotnet/sdk:6.0
 nacos/nacos-server:v2.1.0
-kube-state-metrics/kube-state-metrics:v2.0.0
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
